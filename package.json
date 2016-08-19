@@ -1,0 +1,25 @@
+{
+  "name": "lab-test-falcor",
+  "version": "1.0.0",
+  "description": "Testing falcor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letanure/lab-falcor.git"
+  },
+  "keywords": [
+    "node",
+    "falcor"
+  ],
+  "author": "Luiz Tanure",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/letanure/lab-falcor/issues"
+  },
+  "homepage": "https://github.com/letanure/lab-falcor#readme",
+  "dependencies": {
+  }
+}
